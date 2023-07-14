@@ -1,6 +1,7 @@
 {
   "name": "bubble-site",
   "version": "0.1.0",
+  "homepage": "http://YevheniiaSmetana.github.io/Harp-Fest-web-site",
   "private": true,
   "dependencies": {
     "@svgr/plugin-svgo": "^8.0.1",
@@ -11,6 +12,7 @@
     "classnames": "^2.3.2",
     "css-select": "^5.1.0",
     "framer-motion": "^10.12.18",
+    "gh-pages": "^5.0.0",
     "nth-check": "^2.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -25,7 +27,9 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
