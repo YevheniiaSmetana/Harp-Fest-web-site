@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Harp-Fest-web-site/static/css/main.2e23b604.css",
+    "main.js": "/Harp-Fest-web-site/static/js/main.5ce6b77c.js",
+    "static/js/787.08fe0103.chunk.js": "/Harp-Fest-web-site/static/js/787.08fe0103.chunk.js",
+    "static/media/bubble.png": "/Harp-Fest-web-site/static/media/bubble.4dd5560e03af7c572033.png",
+    "static/media/harp.png": "/Harp-Fest-web-site/static/media/harp.4bae21baa9a824e64f58.png",
+    "static/media/spray.gif": "/Harp-Fest-web-site/static/media/spray.5c55528e328efefd3b73.gif",
+    "static/media/harpFestival.png": "/Harp-Fest-web-site/static/media/harpFestival.e7b6eb761ab6bb1f4dbb.png",
+    "static/media/frame1.png": "/Harp-Fest-web-site/static/media/frame1.3955fc15b7d65944312f.png",
+    "static/media/frame3.png": "/Harp-Fest-web-site/static/media/frame3.9b7e28c8c3264fe06206.png",
+    "static/media/frame2.png": "/Harp-Fest-web-site/static/media/frame2.fd353f1fe3c06891a771.png",
+    "static/media/leaf1.png": "/Harp-Fest-web-site/static/media/leaf1.886b415b4ece880ce270.png",
+    "static/media/logo.svg": "/Harp-Fest-web-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Harp-Fest-web-site/index.html",
+    "main.2e23b604.css.map": "/Harp-Fest-web-site/static/css/main.2e23b604.css.map",
+    "main.5ce6b77c.js.map": "/Harp-Fest-web-site/static/js/main.5ce6b77c.js.map",
+    "787.08fe0103.chunk.js.map": "/Harp-Fest-web-site/static/js/787.08fe0103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e23b604.css",
+    "static/js/main.5ce6b77c.js"
+  ]
+}
